@@ -8,7 +8,9 @@ The objective is to clean and prepare customer data, perform SQL-based analysis,
 
 The project covers practical SQL concepts including database creation, data exploration, data cleaning, data manipulation, filtering, aggregation, sorting, grouping, conditional logic, and analytical queries.
 
+
 🎯 Objectives
+
 Understand the structure and characteristics of the e-commerce customer dataset.
 Identify and handle missing or inconsistent values.
 Clean and prepare the data for analysis.
@@ -17,6 +19,7 @@ Study factors associated with customer churn.
 Use SQL queries to extract meaningful business insights.
 Apply MySQL concepts to a real-world business problem.
 Develop practical skills in data cleaning and exploratory data analysis using SQL.
+
 🗃️ Dataset
 
 The project uses an E-Commerce Customer Churn dataset containing customer-related information such as:
@@ -32,11 +35,13 @@ Customer activity-related attributes
 
 The dataset was provided as an SQL database and was imported into MySQL for analysis.
 
+
 🛠️ Tools & Technologies
 MySQL
 MySQL Workbench
 SQL
 Relational Database Concepts
+
 📚 SQL Concepts Covered
 1. Database & Table Operations
 
@@ -140,6 +145,7 @@ IS NOT NULL
 
 SQL views were used to create reusable representations of query results and simplify access to relevant analytical information.
 
+
 🔍 Key Analysis Areas
 
 The project analyzes different aspects of customer behavior, including:
@@ -168,6 +174,7 @@ Customer Segmentation
 
 Grouping customers based on relevant attributes to identify different behavioral patterns.
 
+
 📊 Data Analysis Workflow
 
 The project follows a structured data analysis process:
@@ -193,6 +200,7 @@ Analyze Customer Behavior
 Study Churn Patterns
       ↓
 Generate Business Insights
+
 💡 Business Insights
 
 The SQL analysis helps an e-commerce business understand:
@@ -205,6 +213,7 @@ Which customer characteristics may indicate higher churn risk.
 How customer data can be used to support retention strategies.
 
 These insights can help businesses develop targeted customer-retention strategies and improve customer engagement.
+
 
 🧹 Data Cleaning Approach
 
@@ -222,6 +231,7 @@ Verifying the final dataset before analysis.
 
 The cleaned dataset was then used for the remaining SQL analysis.
 
+
 📁 Project Structure
 E-Commerce-Customer-Churn-Analysis/
 │
@@ -233,6 +243,7 @@ E-Commerce-Customer-Churn-Analysis/
     └── E-Commerce Customer Churn Analysis.pdf
 
 The exact file names and folder structure can be adjusted according to the files uploaded to the GitHub repository.
+
 
 🧠 Learning Outcomes
 
@@ -253,6 +264,7 @@ Views
 Customer analytics
 Churn analysis
 Business-oriented data analysis
+
 🚀 Conclusion
 
 This project demonstrates how MySQL and SQL can be used to transform raw e-commerce customer data into meaningful business insights.
