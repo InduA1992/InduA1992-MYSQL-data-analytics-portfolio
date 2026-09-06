@@ -1,4 +1,5 @@
 E-Commerce Customer Churn Analysis Using MySQL
+
 📌 Project Overview
 
 This project focuses on analyzing customer churn in an e-commerce business using MySQL.
